@@ -19,4 +19,6 @@ int main()
     {
         printf("Area is 0");
     }
+
+    return 0;
 }
