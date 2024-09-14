@@ -1,0 +1,23 @@
+{
+  // C/C++ Specific Settings
+  "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe", // Update this with your GCC path
+  "C_Cpp.default.intelliSenseMode": "gcc-x86",
+  "C_Cpp.default.cStandard": "c11",
+  "C_Cpp.default.cppStandard": "c++17",
+
+  // Disable IntelliSense errors from system headers
+  "C_Cpp.errorSquiggles": "Disabled",
+  "C_Cpp.errorWarningLevel": "none",
+
+  // Format on Save for C files
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnSave": true
+  },
+
+  // Enable error and warning highlighting based on GCC output
+  "C_Cpp.loggingLevel": "Information",
+  "files.associations": {
+    "stdio.h": "c"
+  }
+}
