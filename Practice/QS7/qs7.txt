@@ -1,0 +1,9 @@
+Are the following valid or not?
+
+a. int a = 8^8; Valid but it will output 0. Cause mathmetically we calculate this as 8 to the power 8; But in C it means 8 exor 8.
+
+b. int x; int y = x; Valid.
+
+c. int x, int y = x; Invalid.
+
+d. char stars = "**"; Invalid. Cause char can't store more than one character.
