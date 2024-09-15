@@ -9,8 +9,8 @@ if(x=1){
 }
 
 
-a. give error. (Right answer)
+a. give error. 
 
-b. print "x is equal to 1".
+b. print "x is equal to 1". (Right answer) although it will give a warning. Cause we are asigning value inside if.
 
 c. print "x is not equal to 1".
